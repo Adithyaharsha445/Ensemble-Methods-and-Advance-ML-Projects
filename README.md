@@ -1,4 +1,4 @@
-#Ensemble-Methods-in-Machine-Learning
+# Ensemble-Methods-in-Machine-Learning
 
 In this project we implement different Ensemble Methods in Machine Learning on wine data. The project is divided into following tasks and the observations are given below:
 
