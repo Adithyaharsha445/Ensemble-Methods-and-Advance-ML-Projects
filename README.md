@@ -16,7 +16,7 @@ Task 5: Implement Stacking Stacking Classifier gives an accuracy of87%.
 
 
 
-# Ensemble-Methods-in-Machine-Learning
+# Ensemble-Methods-in-Machine-Learning-if-used-for-Automotive-Industry
 
 Welcome to the ensemble methods models for machine learning. In this document, lets see how bagging, boosting, and stacking work, and see examples applied to automotive data.
 
